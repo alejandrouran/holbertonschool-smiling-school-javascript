@@ -14,6 +14,10 @@ Here the final result:
 
 ![plot](images/mainimage.jpg)
 
+### Screenshot
+
+![plot](images/Captura.png)
+
 ## Install
 
 * Clone this repository: `git clone "https://github.com/alejuran/holbertonschool-smiling-school-javascript.git"`
